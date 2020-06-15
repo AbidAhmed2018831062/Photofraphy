@@ -1,0 +1,106 @@
+body{
+background-color:#EEEEEE;
+}
+body,div,footer,h1,h2,h3,section,p,a,span{
+	margin:0px;
+	padding:0px;
+}
+.d-1{
+	background-color:#FFFFFF;
+	margin-left:20%;
+	margin-right:20%;
+	box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1), -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.c-1{
+	float:left;
+	width:50%;
+	text-align:center;
+	display:inline-block;
+}
+.c-1>h1{
+	font-size:200%;
+	padding-top:50%;
+	padding-bottom:1%;
+}
+.c-1>h4{
+	color:grey;
+	padding-bottom:1%;
+}
+.d-2{
+	text-align:center;
+	padding:50px;
+}
+.d-2 a{
+	color:black;
+	border:1px solid grey;
+	text-decoration:none;
+	text-align:center;
+	padding:20px;
+	padding-right:50px;
+	padding-left:50px;
+	border-radius:50px;
+	font-size:120%;
+}
+.d-2 a:hover{
+	background-color:#F4F4F4;
+}
+.c-2{
+	float:left;
+	width:49.8%;
+	 height:100vh;
+	background-image:url('camera1.jpg');
+	/* width:100%; */
+	background-size:cover;
+}
+.d-3{
+	background-color:#333333;
+	text-align:center;
+	padding:2%;
+	color:white;
+}
+.s-1{
+	margin-left:50%;
+/* 	border-right:1px solid white;
+	border-left:1px solid white; */
+	text-align:center;
+	padding:20px;
+	margin-top:3%;
+	
+}
+.d-4{
+	word-spacing:3px;
+	background-color:#EEEEEE;
+	text-align:center;
+}
+/* .gallery{
+	width:50%;
+	/* padding:500px; */
+	/* background-image:url('camera2.jpg'); */
+} */
+.d-4 .des{
+	background-color:#EEEEEE;
+	padding:100px;
+	text-align:center;
+}
+.des h3{
+	padding-top:2%;
+	padding-bottom:2%;
+}
+.des>p{
+	padding-bottom:2%;
+}
+.f-1{
+	text-align:center;
+	padding:3%;
+	line-height:150%;
+}
+.f-1 a{
+	text-decoration:none;
+	color:black;
+}
+.f-1 span{
+	font-weight:bold;
+}
+.i-1{
+}
