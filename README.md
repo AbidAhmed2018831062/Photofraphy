@@ -1,1 +1,1 @@
-# Photofraphy
+# Photography
