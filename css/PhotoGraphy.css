@@ -29,16 +29,15 @@ body,div,footer,h1,h2,h3,section,p,a,span{
 }
 .d-2{
 	text-align:center;
-	padding:50px;
+	padding-left:10px;
+	padding-top:30px;
 }
 .d-2 a{
 	color:black;
 	border:1px solid grey;
 	text-decoration:none;
 	text-align:center;
-	padding:20px;
-	padding-right:50px;
-	padding-left:50px;
+	padding:15px;
 	border-radius:50px;
 	font-size:120%;
 }
